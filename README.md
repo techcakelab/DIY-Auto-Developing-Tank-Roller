@@ -1,4 +1,4 @@
-# ESP32 Film Rotator Pro - Universal Timer
+# DIY - Auto Developing Tank Roller - Universal Timer
 
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Techcakelab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techcakelab)
 
