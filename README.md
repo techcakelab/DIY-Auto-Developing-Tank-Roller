@@ -3,8 +3,9 @@
 [![YouTube Channel](https://img.shields.io/badge/YouTube-Techcakelab-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@techcakelab)
 
 Automatic bi-directional film developing rotator, designed as a **Universal Timer** - no pre-set cycles, manually adjustable time and speed for any type of chemical.
-![Overall](bg01.jpg)
 ![Overall](bg02.jpg)
+![Overall](bg01.jpg)
+
 ## Features
 - **Universal Timer:** Set custom time (0.5 – 30 minutes) and speed (10 – 100 RPM) via KY-040 rotary encoder.
 - **Auto Reverse:** Motor runs FWD 10s → pauses 1s → REV 10s → repeats throughout the set time.
